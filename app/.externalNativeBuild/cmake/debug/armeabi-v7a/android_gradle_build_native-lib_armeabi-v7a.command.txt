@@ -1,0 +1,8 @@
+Executable : D:\Android\sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+--build
+C:\Users\Administrator\Desktop\OpenSLESDemo\app\.externalNativeBuild\cmake\debug\armeabi-v7a
+--target
+native-lib
+jvmArgs : 
+

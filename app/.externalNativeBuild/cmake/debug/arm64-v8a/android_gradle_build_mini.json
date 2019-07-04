@@ -1,0 +1,17 @@
+{
+  "buildFiles": [
+    "D:\\Android\\sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\Administrator\\Desktop\\OpenSLESDemo\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build \"C:\\Users\\Administrator\\Desktop\\OpenSLESDemo\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a\" --target clean"
+  ],
+  "libraries": {
+    "native-lib-Debug-arm64-v8a": {
+      "artifactName": "native-lib",
+      "buildCommand": "D:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build \"C:\\Users\\Administrator\\Desktop\\OpenSLESDemo\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a\" --target native-lib",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\Administrator\\Desktop\\OpenSLESDemo\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libnative-lib.so"
+    }
+  }
+}
